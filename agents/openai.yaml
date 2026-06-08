@@ -1,0 +1,4 @@
+interface:
+  display_name: "Job hunting"
+  short_description: "Build a job-search material library, match JDs, and draft recruiter outreach."
+  default_prompt: "Use $job-hunting to build my job-search material library, match this JD, and draft recruiter outreach."

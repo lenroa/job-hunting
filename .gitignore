@@ -1,0 +1,18 @@
+.DS_Store
+*.log
+.env
+.env.*
+
+# Private job-search data
+private-resume*
+Private-Resume*
+my-resume*
+My-Resume*
+*简历*
+*投递*
+*application-record*
+*application-tracker-private*
+
+# Local exports and auth artifacts
+*-qrcode.png
+feishu-doc-export/
